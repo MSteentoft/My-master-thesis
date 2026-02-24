@@ -25,15 +25,13 @@ Measures of abdominal fat distribution were assessed by ultrasonography (Logiq9 
 
 ### Covariates
 
-From the addition-pro protocol: Physical activity during the last four weeks prior to fill ing out the questionnaire was assessed using a modified
-
-Danish version of the validated“recent physical activity
-
-questionnaire” (RPAQ) \[27\]. 
+From the ADDITION-PRO protocol: Physical activity during the last four weeks prior to filling out the questionnaire was assessed using a modified Danish version of the validated“recent physical activity questionnaire” (RPAQ) \[27\]. 
 
 From my protocol: age, sex, smoking status and physical activity. Moreover, we will adjust for inflammatory markers to quantify the proportion of the association that may be explained by inflammation.
 
 What about SES?
+
+<!--# SES was not measured extensively in the ADDITION-PRO questionnaire, as this can be extracted from the registers. Only occupation was asked again. It does mean we can only analyse SES in the DST-linked setup.  -->
 
 ### Statistical analysis
 
