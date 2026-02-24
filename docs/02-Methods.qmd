@@ -1,0 +1,76 @@
+---
+title: "Methods"
+Author: "Mikkel E. Steentoft"
+format: html
+editor: visual
+bibliography: references.bib
+csl: acta-diabetologica.csl
+---
+
+## Study population
+
+This cross-sectional study was based on data from the health assessment in the ADDITION-PRO study, an observational cohort study conducted from 2009-2011. The ADDITION-PRO cohort was sampled from the ADDITION-DK study, a population-based high-risk screening program for type 2 diabetes conducted in Danish general practices from 2001-2006 [@lauritzen2000]. To identify the high-risk population, participants in the ADDITION-DK study (n = 163,189) were initially invited to complete a validated diabetes risk score questionnaire which assessed age, sex, body mass index (BMI), known hypertension, physical activity level and family history of type 2 diabetes [@glümer2004]. Individuals identified as high-risk (≥5 points (n = 26,491)) were subsequently invited to participate in a stepwise screening protocol comprising measures of random blood glucose (RBG), glycated hemoglobin (HbA1c), fasting blood glucose (FBG) and oral glucose tolerance test (OGTT) [@dalsgaard2010]. Following completion of the screening program, participants without diabetes (n=22,200) were further stratified into five categories based on their glycemic status and diabetes risk: 1) risk score \<5 points, 2) risk score ≥ 5 points with normoglycemia, 3) isolated impaired fasting glucose (iIFG), 4) isolated impaired glucose tolerance (iIGT) and 5) combined impaired fasting glucose and impaired glucose tolerance. From this stratification, 2,082 individuals agreed to participate in the ADDITION-PRO health assessment from 2009-2011 [@johansen2012]. The present study will include participants from the two study centers where ultrasound measures of body fat distribution were assessed (Copenhagen and Aarhus).
+
+The ADDITION-PRO study was approved by the scientific ethics committee in the Central Denmark Region (no: 20000183) and was conducted in accordance with the Helsinki declaration. All participants provided written informed consent prior to their participation in the study.
+
+## Study procedures
+
+### Biochemical measures
+
+Dynamic measures of glucose and insulin, GLP-1, GIP and glucagon were obtained through venous blood samples drawn at 0, 30 and 120 minutes during a standard 2-hour 75g oral glucose tolerance test given to participants after an overnight fast of ≥ 8 hours. Plasma glucose was analyzed using the Hitachi 912 system (Roche Diagnostics, Mannheim, Germany) or the Vitros 5600 Integrated System (Ortho Clinical Diagnostics Illkirch Cedex, France). Subsequently, all values analyzed with Vitros 5600 were converted to Hitachi 912 values. Serum insulin was measured by immunoassay (AutoDELFIA, Perkin Elmer, Massachusetts, United States) [@johansen2012]. For the analysis of GLP-1, GIP and glucagon, blood samples were collected in EDTA-containing tubes and immediately cooled on ice. After centrifugation to obtain plasma, the tubes were kept frozen at -80°C until analysis [@johansen2012]. Total plasma GLP-1 and GIP (including both intact hormones and the metabolites GLP-1 9-36 amide and GIP 3-42) were measured by radioimmunoassay (RIA) as previously described [@holst1983; @orskov1994; @lindgren2011; @møller2016; @færch2015; @færch2016]. For both GLP-1 and GIP, the analytical detection limit was 1 pmol/l with intra- and interassay coefficients of variation of 6% and 15%, respectively. Plasma glucagon was measured using a C-terminal-specific RIA as previously described [@færch2016; @knop2007; @toft-nielsen2001], with an analytical detection limit of 1 pmol/l and intra- and interassay coefficients of variation of 6% and 15%, respectively.
+
+### Measures of body fat distribution
+
+Measures of abdominal fat distribution were assessed by ultrasonography (Logiq9 ultrasound machine, GE Healthcare, Waukesha, WI, USA) in line with previously established protocols [@stolk2001; @rolfe2010; @philipsen2015]. With the participant in the supine position, VAT and SAT were measured with the transducer placed where the xyphoid crosses the waistline. SAT was measured as the distance from the skin to the linea alba with a 9 L (2.5-8.0 MHz) transducer in the transverse position. VAT was defined as the vertical distance from peritoneum to the front edge of the vertebra with a 4 C (1.5-4.5 MHz) transducer in a longitudinal position. Hepatic fat content was quantified through an image of the liver, captured in the supine position with the right arm held above the head using a curved array 4 C transducer (3 MHz).
+
+### Covariates
+
+From the addition-pro protocol: Physical activity during the last four weeks prior to fill ing out the questionnaire was assessed using a modified
+
+Danish version of the validated“recent physical activity
+
+questionnaire” (RPAQ) \[27\]. 
+
+From my protocol: age, sex, smoking status and physical activity. Moreover, we will adjust for inflammatory markers to quantify the proportion of the association that may be explained by inflammation.
+
+What about SES?
+
+### Statistical analysis
+
+Characteristics of the study population were described using medians (25^th^ and 75^th^ percentiles) for continuous variables and frequencies (n, percentages) of categorical variables.
+
+#### K-means clustering
+
+#### Linear regression models
+
+1.                   Lauritzen T, Griffin S, Borch-Johnsen K, Wareham NJ, Wolffenbuttel BH, Rutten G. The ADDITION study: proposed trial of the cost-effectiveness of an intensive multifactorial intervention on morbidity and mortality among people with Type 2 diabetes detected by screening. Int J Obes Relat Metab Disord. 2000;24 Suppl 3:S6-11.
+
+2.                   Glümer C, Carstensen B, Sandbaek A, Lauritzen T, Jørgensen T, Borch-Johnsen K. A Danish diabetes risk score for targeted screening: the Inter99 study. Diabetes Care. 2004;27(3):727-33.
+
+3.                   Dalsgaard E-M, Christensen JO, Skriver MV, Borch-Johnsen K, Lauritzen T, Sandbaek A. Comparison of different stepwise screening strategies for type 2 diabetes: Finding from Danish general practice, Addition-DK. Primary Care Diabetes. 2010;4(4):223-9.
+
+4.                   Johansen NB, Hansen AL, Jensen TM, Philipsen A, Rasmussen SS, Jørgensen ME, et al. Protocol for ADDITION-PRO: a longitudinal cohort study of the cardiovascular experience of individuals at high risk for diabetes recruited from Danish primary care. BMC Public Health. 2012;12:1078.
+
+5.                   Holst JJ. Molecular heterogeneity of glucagon in normal subjects and in patients with glucagon-producing tumours. Diabetologia. 1983;24(5):359-65.
+
+6.                   Orskov C, Rabenhøj L, Wettergren A, Kofod H, Holst JJ. Tissue and plasma concentrations of amidated and glycine-extended glucagon-like peptide I in humans. Diabetes. 1994;43(4):535-9.
+
+7.                   Lindgren O, Carr RD, Deacon CF, Holst JJ, Pacini G, Mari A, et al. Incretin hormone and insulin responses to oral versus intravenous lipid administration in humans. J Clin Endocrinol Metab. 2011;96(8):2519-24.
+
+8.                   Møller CL, Vistisen D, Færch K, Johansen NB, Witte DR, Jonsson A, et al. Glucose-Dependent Insulinotropic Polypeptide Is Associated With Lower Low-Density Lipoprotein But Unhealthy Fat Distribution, Independent of Insulin: The ADDITION-PRO Study. J Clin Endocrinol Metab. 2016;101(2):485-93.
+
+9.                   Færch K, Torekov SS, Vistisen D, Johansen NB, Witte DR, Jonsson A, et al. GLP-1 Response to Oral Glucose Is Reduced in Prediabetes, Screen-Detected Type 2 Diabetes, and Obesity and Influenced by Sex: The ADDITION-PRO Study. Diabetes. 2015;64(7):2513-25.
+
+10.                 Færch K, Vistisen D, Pacini G, Torekov SS, Johansen NB, Witte DR, et al. Insulin Resistance Is Accompanied by Increased Fasting Glucagon and Delayed Glucagon Suppression in Individuals With Normal and Impaired Glucose Regulation. Diabetes. 2016;65(11):3473-81.
+
+11.                 Knop FK, Vilsbøll T, Madsbad S, Holst JJ, Krarup T. Inappropriate suppression of glucagon during OGTT but not during isoglycaemic i.v. glucose infusion contributes to the reduced incretin effect in type 2 diabetes mellitus. Diabetologia. 2007;50(4):797-805.
+
+12.                 Toft-Nielsen MB, Damholt MB, Madsbad S, Hilsted LM, Hughes TE, Michelsen BK, et al. Determinants of the impaired secretion of glucagon-like peptide-1 in type 2 diabetic patients. J Clin Endocrinol Metab. 2001;86(8):3717-23.
+
+13.                 Stolk RP, Wink O, Zelissen PMJ, Meijer R, van Gils APG, Grobbee DE. Validity and reproducibility of ultrasonography for the measurement of intra-abdominal adipose tissue. International Journal of Obesity. 2001;25(9):1346-51.
+
+14.                 Rolfe EDL, Sleigh A, Finucane FM, Brage S, Stolk RP, Cooper C, et al. Ultrasound Measurements of Visceral and Subcutaneous Abdominal Thickness to Predict Abdominal Adiposity Among Older Men and Women. Obesity. 2010;18(3):625-31.
+
+15.                 Philipsen A, Jørgensen ME, Vistisen D, Sandbaek A, Almdal TP, Christiansen JS, et al. Associations between Ultrasound Measures of Abdominal Fat Distribution and Indices of Glucose Metabolism in a Population at High Risk of Type 2 Diabetes: The ADDITION-PRO Study. PLOS ONE. 2015;10(4):e0123062.
+
+ 
