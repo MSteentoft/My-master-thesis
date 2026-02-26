@@ -40,35 +40,3 @@ Characteristics of the study population were described using medians (25^th^ and
 #### K-means clustering
 
 #### Linear regression models
-
-1.                   Lauritzen T, Griffin S, Borch-Johnsen K, Wareham NJ, Wolffenbuttel BH, Rutten G. The ADDITION study: proposed trial of the cost-effectiveness of an intensive multifactorial intervention on morbidity and mortality among people with Type 2 diabetes detected by screening. Int J Obes Relat Metab Disord. 2000;24 Suppl 3:S6-11.
-
-2.                   Glümer C, Carstensen B, Sandbaek A, Lauritzen T, Jørgensen T, Borch-Johnsen K. A Danish diabetes risk score for targeted screening: the Inter99 study. Diabetes Care. 2004;27(3):727-33.
-
-3.                   Dalsgaard E-M, Christensen JO, Skriver MV, Borch-Johnsen K, Lauritzen T, Sandbaek A. Comparison of different stepwise screening strategies for type 2 diabetes: Finding from Danish general practice, Addition-DK. Primary Care Diabetes. 2010;4(4):223-9.
-
-4.                   Johansen NB, Hansen AL, Jensen TM, Philipsen A, Rasmussen SS, Jørgensen ME, et al. Protocol for ADDITION-PRO: a longitudinal cohort study of the cardiovascular experience of individuals at high risk for diabetes recruited from Danish primary care. BMC Public Health. 2012;12:1078.
-
-5.                   Holst JJ. Molecular heterogeneity of glucagon in normal subjects and in patients with glucagon-producing tumours. Diabetologia. 1983;24(5):359-65.
-
-6.                   Orskov C, Rabenhøj L, Wettergren A, Kofod H, Holst JJ. Tissue and plasma concentrations of amidated and glycine-extended glucagon-like peptide I in humans. Diabetes. 1994;43(4):535-9.
-
-7.                   Lindgren O, Carr RD, Deacon CF, Holst JJ, Pacini G, Mari A, et al. Incretin hormone and insulin responses to oral versus intravenous lipid administration in humans. J Clin Endocrinol Metab. 2011;96(8):2519-24.
-
-8.                   Møller CL, Vistisen D, Færch K, Johansen NB, Witte DR, Jonsson A, et al. Glucose-Dependent Insulinotropic Polypeptide Is Associated With Lower Low-Density Lipoprotein But Unhealthy Fat Distribution, Independent of Insulin: The ADDITION-PRO Study. J Clin Endocrinol Metab. 2016;101(2):485-93.
-
-9.                   Færch K, Torekov SS, Vistisen D, Johansen NB, Witte DR, Jonsson A, et al. GLP-1 Response to Oral Glucose Is Reduced in Prediabetes, Screen-Detected Type 2 Diabetes, and Obesity and Influenced by Sex: The ADDITION-PRO Study. Diabetes. 2015;64(7):2513-25.
-
-10.                 Færch K, Vistisen D, Pacini G, Torekov SS, Johansen NB, Witte DR, et al. Insulin Resistance Is Accompanied by Increased Fasting Glucagon and Delayed Glucagon Suppression in Individuals With Normal and Impaired Glucose Regulation. Diabetes. 2016;65(11):3473-81.
-
-11.                 Knop FK, Vilsbøll T, Madsbad S, Holst JJ, Krarup T. Inappropriate suppression of glucagon during OGTT but not during isoglycaemic i.v. glucose infusion contributes to the reduced incretin effect in type 2 diabetes mellitus. Diabetologia. 2007;50(4):797-805.
-
-12.                 Toft-Nielsen MB, Damholt MB, Madsbad S, Hilsted LM, Hughes TE, Michelsen BK, et al. Determinants of the impaired secretion of glucagon-like peptide-1 in type 2 diabetic patients. J Clin Endocrinol Metab. 2001;86(8):3717-23.
-
-13.                 Stolk RP, Wink O, Zelissen PMJ, Meijer R, van Gils APG, Grobbee DE. Validity and reproducibility of ultrasonography for the measurement of intra-abdominal adipose tissue. International Journal of Obesity. 2001;25(9):1346-51.
-
-14.                 Rolfe EDL, Sleigh A, Finucane FM, Brage S, Stolk RP, Cooper C, et al. Ultrasound Measurements of Visceral and Subcutaneous Abdominal Thickness to Predict Abdominal Adiposity Among Older Men and Women. Obesity. 2010;18(3):625-31.
-
-15.                 Philipsen A, Jørgensen ME, Vistisen D, Sandbaek A, Almdal TP, Christiansen JS, et al. Associations between Ultrasound Measures of Abdominal Fat Distribution and Indices of Glucose Metabolism in a Population at High Risk of Type 2 Diabetes: The ADDITION-PRO Study. PLOS ONE. 2015;10(4):e0123062.
-
- 
