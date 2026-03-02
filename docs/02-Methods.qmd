@@ -25,13 +25,7 @@ Measures of abdominal fat distribution were assessed by ultrasonography (Logiq9 
 
 ### Covariates
 
-From the ADDITION-PRO protocol: Physical activity during the last four weeks prior to filling out the questionnaire was assessed using a modified Danish version of the validated“recent physical activity questionnaire” (RPAQ) \[27\]. 
-
-From my protocol: age, sex, smoking status and physical activity. Moreover, we will adjust for inflammatory markers to quantify the proportion of the association that may be explained by inflammation.
-
-What about SES?
-
-<!--# SES was not measured extensively in the ADDITION-PRO questionnaire, as this can be extracted from the registers. Only occupation was asked again. It does mean we can only analyse SES in the DST-linked setup.  -->
+Smoking status (daily smoker, occasional smoker and never smoked) was obtained through a general health questionnaire sent out to each participant prior to their health assessment. Physical activity was assessed by placing a combined heart rate and accelerometer monitor (ActiHeartW CamNTech, Ltd., Cambridge, United Kingdom[@brage2005]) horizontally on the participants' chest, one at the lower part of the sternum and the other one at the same horizontal level as laterally to the left side as possible. The monitor was set up to record free-living physical activity every 60 seconds and participants were asked to wear the monitor for seven days while maintaining their usual physical activity pattern during the period. Based on the measurements from the monitor, calculations of physical activity energy expenditure (PAEE) were performed using a branched equation model combining minute-to-minute heart rate and accelerometry measures [@brage2004][@johansen2012].
 
 ### Statistical analysis
 
