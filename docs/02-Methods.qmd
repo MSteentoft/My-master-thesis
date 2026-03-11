@@ -27,10 +27,32 @@ Measures of abdominal fat distribution were assessed by ultrasonography (Logiq9 
 
 Smoking status (daily smoker, occasional smoker and never smoked) was obtained through a general health questionnaire sent out to each participant prior to their health assessment. Physical activity was assessed by placing a combined heart rate and accelerometer monitor (ActiHeartW CamNTech, Ltd., Cambridge, United Kingdom[@brage2005]) horizontally on the participants' chest, one at the lower part of the sternum and the other one at the same horizontal level as laterally to the left side as possible. The monitor was set up to record free-living physical activity every 60 seconds and participants were asked to wear the monitor for seven days while maintaining their usual physical activity pattern during the period. Based on the measurements from the monitor, calculations of physical activity energy expenditure (PAEE) were performed using a branched equation model combining minute-to-minute heart rate and accelerometry measures [@brage2004][@johansen2012].
 
+### Calculations
+
+Area under the curve (AUC) for glucose, insulin, GLP-1, GIP and glucagon from 0-120 minutes during the OGTT was calculated using the trapezoid rule. For example, AUC-glucose was calculated as:
+
+$$AUC_{glucose} = \frac{glucose_0 + glucose_{30}}{2} \times 30 + \frac{glucose_{30} + glucose_{120}}{2} \times 90$$
+
+As a measure of insulin sensitivity (ISI) Gutt's index was calculated [@gutt2000] as
+
+$$ISI_{0,120} = \frac{75000 + 180(glucose_{t0} - glucose_{t120}) \times 0.19 \times body\ weight}{120 \times \left(\frac{glucose_{t0} + glucose_{t120}}{2}\right) \times \log\left(\frac{insulin_{t0} + insulin_{t120}}{6.945 \times 2}\right)}$$
+
+Glucagon suppression (%) from 0-120 minutes was calculated as
+
+$$Glucagon\ suppression = \left(1 - \frac{glucagon_{120}}{glucagon_{0}}\right) \times 100\%$$
+
+Glucagon suppression (%) for OGTT intervals 0-30 and 30-120 was calculated accordingly.
+
 ### Statistical analysis
 
-Characteristics of the study population were described using medians (25^th^ and 75^th^ percentiles) for continuous variables and frequencies (n, percentages) of categorical variables.
+Characteristics of the study population were stratified by glycemic status and described using medians (25th and 75th quartiles) for continuous variables and frequencies (n, percentages) for categorical variables.
 
-#### K-means clustering
+Five variables were selected for clustering to capture the interplay between glucose, insulin, incretin secretion (GLP1 and GIP) and glucagon responses during the total time period of the OGTT (0-120 minutes): AUC-glucose, Gutt's index for insulin sensitivity (ISI), AUC-GLP1, AUC-GIP and glucagon suppression. In line with previous studies using data-driven approaches to identify subgroups among individuals at high risk of type 2 diabetes [@wagner2021; @huemer2025], summarized measures were used to capture the full glucose and hormonal response during the OGTT, while Gutt's index was included as a measure of insulin sensitivity derived from the same time-period.
+
+K-means clustering was utilized to group participants into clusters with maximally different OGTT responses, while minimizing the variation within the clusters [@james2021]. Prior to clustering AUC-glucose, Gutt's ISI, AUC-GLP1 and AUC-GIP were logarithmically transformed to reduce the influence of outliers and right-skewed data. Furthermore, all five variables were standardized (mean = 0, standard deviation = 1) to ensure that all features have equal impact on the calculations in the k-means algorithm [@wongoutong2024].
+
+The number of clusters was determined using the NbClust package in R, which simultaneously evaluates 26 indices for clustering and selects the optimal number of clusters. The indices primarily combine measures of the variation within and between clusters, and the optimal number of clusters is the one suggested by the majority of the indices [@charrad2014].
+
+Although indices did not agree on a single solution, k = 3 was selected based on biological interpretability and adequate cluster sizes for subsequent regression analyses. A two-cluster solution was considered insufficient to capture distinct responses across the five OGTT-variables, while a larger number of clusters was too small for robust regression analyses. The quality of clusters was assessed with average silhouette width (0.21)
 
 #### Linear regression models
