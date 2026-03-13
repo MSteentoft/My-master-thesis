@@ -1,0 +1,43 @@
+---
+title: "Appendix A"
+Author: "Mikkel E. Steentoft"
+format: html
+theme: cosmo
+editor: visual
+bibliography: references.bib
+csl: acta-diabetologica.csl
+---
+
+### x.x Methodological considerations in assessing heterogeneity
+
+In the present study, we used k-means clustering to assess heterogeneity among individuals at high risk of type 2 diabetes. K-means clustering is an unsupervised statistical method, which implies that the aim of the analysis is to identify distinct subgroups with different characteristics rather than predicting outcomes as in supervised methods (i.e regression models) [@james2021]. The method is widely used in type 2 diabetes research [@wagner2026; @stroebel2025; @onthoni2025; @li2024] and is a simple and easy-to-understand approach. In the following section, the process of the k-means algorithm will be briefly described, followed by a discussion of the limitations of the method related to the present study. Furthermore, sensitivity analyses will be performed to quantify the impact of these methodological uncertainties. Finally an alternative phenotyping method, the latent class trajectory analysis (LCTA) will be presented.
+
+### x.x.x The k-means clustering approach
+
+The K-means clustering algorithm is an iterative process that aims to minimize the total variation within the clusters (compactness), and thereby maximizing the variation between clusters (separation). The algorithm is initialized by choosing the amount of clusters, *k,* desired for the specific analysis. The centers of the clusters, called centroids, will be randomly placed in the multidimensional space, followed by an assignment process where every data point is labelled to the closest centroid. Next, the centroids are relocated to the mean position of all data points assigned to that cluster. Finally, the data points are reassigned to new clusters, and this process is repeated until the centroid and assignments do not alter anymore [@james2021; @differen18].
+
+### x.x.x Cluster validation
+
+Despite being a widely used and easy to apply clustering algorithm, k-means clustering has several methodological considerations that need to be addressed [@kmeans2017]. Firstly, the use of means to calculate the centroid position makes k-means clustering sensitive to outliers, where extreme values might shift the centroid disproportionally [@khan2024]. In the present analysis, the influence of extreme values was reduced through logarithmic transformation of right-skewed variables. Secondly, the k-means clusters are assumed to be spherical, which might not always be the case. Finally, the algorithm relies on the analyst choosing the number of clusters in advance.
+
+To determine the optimal number of clusters in this study, two approaches were applied. Initially the NbClust package was utilized, which simultaneously evaluates cluster solutions based on 26 indices. The package works by varying the number of clusters while comparing measures of within- and between- cluster variation. Ultimately, the package identifies the most robust solution through a 'majority rule', suggesting the cluster solution that is supported by the greatest number of criteria [@charrad2014]. While the majority rule suggested 2 and 9 clusters as the optimal solution (both supported by 6 indices) a 3-cluster solution (supported by 4 criteria) was selected for the present study. A 2-cluster solution was considered to assign all the normoglycemic individuals together and thereby failing to capture the heterogeneity we aim to assess, whereas a 9-cluster solution would create smaller clusters with insufficient sample sizes.
+
+To further evaluate the quality of a 3-cluster solution, the silhouette method was applied, which evaluates cluster quality based on both compactness and separation for each individual [@kaufman1990], calculated by:
+
+$${S(i)} =  \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}$$
+
+Where a(i) is the mean distance to every other point in the same cluster and b(i) the mean distance to every other point in the nearest neighboring cluster. The average silhouette width across all observations was 0.21, as reported in the article.
+
+### x.x.x Latent class trajectory - a modern approach for assessing heterogeneity
+
+In this study glucose, insulin, GLP-1, GIP and glucagon were used as input variables to k-means clustering. As described, the five variables were derived from the OGTT, where each variable was measured at three time points (0, 30 and 120 minutes). K-means clustering is not suited to handle time-series data, and therefore does not account for possible complex, time-dependent correlations between measurements [@giordano2021]. To address this limitation, we reduced the complexity of different time point measurements to summary measures (i.e area under the curve glucose). Despite summary measures derived from the OGTT being widely used in previous studies [@wagner2026; @stroebel2025; @onthoni2025; @li2024], recent studies have identified distinct subgroups among individuals at high risk of type 2 diabetes with different glucose patterns during OGTT [@hulman2017; @hulman2018].
+
+Latent class trajectory
+
+-   LCA: probabilistic class membership, model selection (BIC/AIC, entropy), rationale for latent phenotypes
+
+-   Comparison table: k-means vs. LCA
+
+-   AUC rationale: trapezoid method, exposure vs. dynamics, 0–30 vs. 30–120 min glucagon suppression
+
+    )
