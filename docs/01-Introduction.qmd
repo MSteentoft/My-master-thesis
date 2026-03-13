@@ -2,27 +2,18 @@
 title: "Introduction"
 Author: "Mikkel E. Steentoft"
 format: html
+theme: cosmo
 editor: visual
 bibliography: references.bib
 csl: acta-diabetologica.csl
 ---
 
-The global prevalence of type 2 diabetes (T2D), prediabetes and associated complications continues to rise, indicating that existing prevention and treatment strategies are insufficient to halt disease progression (1, 2). This may partly reflect that T2D is a more complex and heterogeneous disease than previously assumed. Novel data-driven phenotyping approaches have begun to characterize this complexity, identifying distinct subgroups with different pathological characteristics and risk-trajectories for diabetes-related complications (2-4). Emerging evidence suggests that this heterogeneity is already present among individuals with prediabetes (5-7), defined by impaired fasting glucose and impaired glucose tolerance, arising from declining beta-cell function and insulin resistance (8).
+The global prevalence of type 2 diabetes (T2D), prediabetes and associated complications continues to rise, indicating that existing prevention and treatment strategies are insufficient to halt disease progression [@saeedi2019; @ahlqvist2018]. This may partly reflect that T2D is a more complex and heterogeneous disease than previously assumed. Data-driven phenotyping approaches have begun to characterize this complexity, identifying distinct subgroups with different pathological characteristics and risk-trajectories for diabetes-related complications [@ahlqvist2018; @misra2023; @li2024]. Emerging evidence suggests that this heterogeneity is already present among individuals with prediabetes [@wagner2026; @onthoni2025; @wagner2021].
 
-Studies have identified subgroups among individuals at high risk of T2D based on distinct glucose response patterns during a 3-point oral glucose tolerance test (OGTT), suggesting that dynamic glucose measures can further refine risk stratification. Beyond glucose responses, recent evidence indicates that dynamic hormonal responses to the OGTT, specifically those related to glucagon-like peptide-1 (GLP-1), gastric inhibitory polypeptide (GIP) and glucagon may play an important role in progression to T2D. Moreover, it has recently been shown that body fat distribution varies across subtypes of individuals with prediabetes, with distinct patterns of visceral and hepatic fat influencing risk trajectories. However, the dynamic responses of glucose, insulin, incretins and glucagon during the OGTT, and how different patterns of fat distribution may be associated with these responses, remain unclear. Understanding these associations could improve identification of high-risk populations and facilitate targeted prevention strategies.
+Traditionally, risk stratification in prediabetes has relied on glycemic states, such as impaired fasting glucose and impaired glucose tolerance, arising from a combination of insulin resistance and declining beta-cell function [@echouffo-tcheugui2021]. While glucose patterns during an oral glucose tolerance test (OGTT) support our understanding of risk trajectories among individuals with prediabetes, they provide limited insights into more complex metabolic traits. Different measures of obesity, particularly visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT), are well-established risk factors for developing T2D. Consequently, body fat distribution represents a metabolic trait that is already present and differentiated among individuals in the prediabetic state [@philipsen2015; @borel2015]. This is underscored by recent, data-driven phenotyping, identifying subgroups with different characteristics, including diverse patterns of body fat distribution [@wagner2026; @stroebel2025].
 
-1.            Saeedi P, Petersohn I, Salpea P, Malanda B, Karuranga S, Unwin N, et al. Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition. Diabetes Research and Clinical Practice. 2019;157:107843.
+Next up: Isolated effects og glp-1, gip and glucagon on obesity and prediabetes -\> something about how the interplay between glucose, insulin and hormones is not well understood -\> how this is assocaited to different measures of fat distribution
 
-2.            Ahlqvist E, Storm P, Käräjämäki A, Martinell M, Dorkhan M, Carlsson A, et al. Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variables. Lancet Diabetes Endocrinol. 2018;6(5):361-9.
+Notes from the protocol, maybe some of it will be used:
 
-3.            Misra S, Wagner R, Ozkan B, Schön M, Sevilla-Gonzalez M, Prystupa K, et al. Precision subclassification of type 2 diabetes: a systematic review. Commun Med (Lond). 2023;3(1):138.
-
-4.            Li B, Yang Z, Liu Y, Zhou X, Wang W, Gao Z, et al. Clinical characteristics and complication risks in data-driven clusters among Chinese community diabetes populations. J Diabetes. 2024;16(8):e13596.
-
-5.            Wagner R, Selvin E, Sehgal R, Prystupa K, Misra S, Fritsche A, et al. Beyond Glucose—Rethinking Prediabetes for Precision Prevention. Diabetes Care. 2025.
-
-6.            Onthoni DD, Chen YE, Lai YH, Li GH, Zhuang YS, Lin HM, et al. Clustering-based risk stratification of prediabetes populations: Insights from the Taiwan and UK Biobanks. J Diabetes Investig. 2025;16(1):25-35.
-
-7.            Wagner R, Heni M, Tabák AG, Machann J, Schick F, Randrianarisoa E, et al. Pathophysiology-based subphenotyping of individuals at elevated risk for type 2 diabetes. Nature Medicine. 2021;27(1):49-57.
-
-8.            Echouffo-Tcheugui JB, Selvin E, Fielding JE. Prediabetes and What It Means: The Epidemiological Evidence. Annual review of public health. 2021;42(1):59-77.
+Beyond glucose responses, recent evidence indicates that dynamic hormonal responses to the OGTT, specifically those related to glucagon-like peptide-1 (GLP-1), gastric inhibitory polypeptide (GIP) and glucagon may play an important role in progression to T2D. Moreover, it has recently been shown that body fat distribution varies across subtypes of individuals with prediabetes, with distinct patterns of visceral and hepatic fat influencing risk trajectories. However, the dynamic responses of glucose, insulin, incretins and glucagon during the OGTT, and how different patterns of fat distribution may be associated with these responses, remain unclear. Understanding these associations could improve identification of high-risk populations and facilitate targeted prevention strategies.
