@@ -1,0 +1,25 @@
+---
+title: "03-Results"
+Author: "Mikkel E. Steentoft"
+format: html
+editor: visual
+theme: cosmo
+bibliography: references.bib
+csl: acta-diabetologica.csl
+---
+
+## Study population
+
+In total, 1,385 participants were included in the clustering analysis. Participants were excluded due to missing one or more measurements during the OGTT or fasting less than 8 hours before the OGTT. The included study population had a mean age of 66 years (SD = 7.1) and 53% were male. The mean BMI was 27.1 kg/m² (SD = 4.5) and the majority were current smokers (63%). Glycemic categories were distributed as follows: 735 (53%) NGT, 249 (18%) iIFG, 122 (8.8%) iIGT, 117 (8.4%) IFG+IGT and 162 (12%) type 2 diabetes. Of these, 162 were further excluded due to missing data on VAT, SAT, smoking status or physical activity, leaving n = 1,223 for the regression analysis. Participants excluded from the regression analysis were more likely to have type 2 diabetes and impaired glucose tolerance and had higher BMI compared to the included participants. Details of the exclusion process are shown in figure 1
+
+## K-means clustering
+
+### Clustering solution and characteristics
+
+A three-cluster solution was identified as the best clustering solution, supported by four NbClust indices and a silhouette width of 0.21, representing the best combination of statistical quality and biological interpretability. Cluster characteristics are presented in table 1. Cluster one is characterized by having the lowest mean age (64.8 years), highest proportion of males (62%), least current smokers (59%), highest physical activity level (53.5 kj/kg/day) and lowest body fat percentage (30.1 %). Cluster two has the lowest BMI (25.8), lowest waist circumference (90.8 cm) and the highest proportion of individuals with normoglycemia (78%). Cluster three presents as the most metabolically unfavorable, defined by having the highest mean BMI (29.1 kg/m²), body fat percentage (34.7%), visceral adipose tissue (9.4 cm) and the highest proportion of participants with type 2 diabetes (33%).
+
+### OGTT responses across clusters
+
+The identified clusters OGTT responses are plotted in figure 2, showing geometric mean response curves for glucose, insulin, GLP-1, GIP and glucagon (*Fig. 2A, B, C, D* and *E,* respectively)at all three time points (0, 30 and 120 minutes).
+
+## Associations to measures of fat distribution
