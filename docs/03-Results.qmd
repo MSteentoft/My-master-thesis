@@ -10,11 +10,11 @@ csl: acta-diabetologica.csl
 
 ## Study population
 
-In total, 1,385 participants were included in the clustering analysis. The included study population had a mean age of 66 years (SD = 7.1) and 53% were male. The mean BMI was 27.1 kg/m² (SD = 4.5) and the majority were current smokers (63%). Glycemic categories were distributed as follows: 735 (53%) NGT, 249 (18%) iIFG, 122 (8.8%) iIGT, 117 (8.4%) IFG+IGT and 162 (12%) type 2 diabetes. Of the 1,385 included in the clustering analysis, 162 were excluded due to missing data on VAT, SAT, smoking status or physical activity, leaving n = 1,223 participants for the regression analysis. Participants excluded from the regression analysis were more likely to have type 2 diabetes, impaired glucose tolerance and had higher BMI compared to the included participants. Details of the exclusion process are shown in figure 1.
+In total, 1,385 participants were included in the clustering analysis. The included study population had a mean age of 66 years (SD = 7.1) and 53% were male. The mean BMI was 27.1 kg/m² (SD = 4.5) and the majority were current smokers (63%). Glycemic categories were distributed as follows: 735 (53%) NGT, 249 (18%) iIFG, 122 (8.8%) iIGT, 117 (8.4%) IFG+IGT and 162 (12%) type 2 diabetes. Of the 1,385 included in the clustering analysis, 162 were excluded due to missing data on VAT, SAT, body fat percentage, smoking status or physical activity, leaving n = 1,209 participants for the regression analysis. Participants excluded from the regression analysis were more likely to have type 2 diabetes, impaired glucose tolerance and had higher BMI compared to the included participants. Details of the exclusion process are shown in figure 1.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Flow-chart figure 1  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+#### Flow-chart figure 1 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## K-means clustering
 
@@ -30,13 +30,13 @@ OGTT response patterns across clusters are plotted in figure 2, showing mean res
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Response pattern figure 2  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+#### Response pattern figure 2 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cluster 3 is characterized by elevated glucose levels throughout the OGTT, with the highest fasting glucose (6.5 mmol/L), and 2hPG (9.1 mmol/L) alongside the highest insulin concentrations, with a fasting insulin of 53.6 pmol/L and 30 minute and 2-hour insulin levels of 249 pmol/L and 387.2 pmol/L, respectively. This corresponds to the lowest value on the insulin sensitivity index across clusters (ISI = 21). In contrast, cluster 2 had the lowest 2hPG (5.4 mmol/L) and a higher peak in insulin at 30 minutes (214 pmol/L) compared to cluster 1 (180 pmol/L), with a corresponding highest value on the insulin sensitivity index of 48 compared to 42 for cluster 1. Cluster 1 had the lowest incretin secretion (AUC<sub>0-120</sub> = 1,873 and 3,865 pmol/L × min for GLP-1 and GIP, respectively), almost half of the incretin secretion of cluster 2 (AUC<sub>0-120</sub> = 3,938 and 6,265 pmol/L × min for GLP-1 and GIP, respectively). Furthermore, cluster 3 showed an early increase in glucagon (0-30 min suppression = -10.3%), but the highest late glucagon suppression (30-120 min, 44.6%), and cluster 2 had lower glucagon suppression than cluster 1 across all intervals. Despite the differences in early and late response patterns, cluster 1 and 3 have almost similar overall glucagon suppression (47% and 45.4%, respectively), with cluster 3 having the highest glucagon secretion (AUC <sub>0-120 min</sub> = 1,085 pmol/L × min). Detailed OGTT characteristics are shown in table 2.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### OGTT characteristics table 2  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+#### OGTT characteristics table 2 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Associations to measures of fat distribution
 
