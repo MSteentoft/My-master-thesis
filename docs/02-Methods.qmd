@@ -6,6 +6,7 @@ theme: cosmo
 editor: visual
 bibliography: references.bib
 csl: acta-diabetologica.csl
+mainfont: arial
 ---
 
 ## Study population
@@ -54,8 +55,6 @@ K-means clustering was utilized to identify subgroups with distinct OGTT respons
 
 #### Associations with measures of fat distribution
 
-Associations between identified clusters and measures of fat distribution were assessed using linear regression models with clusters as independent, categorical variables and VAT, SAT, VAT/SAT ratio and body fat percentage as dependent, continuous variables. VAT, SAT and VAT/SAT ratio were logarithmically transformed before analysis to account for right-skewed distributions. All four outcome models included a cluster × sex interaction term. Estimates were presented both pooled and sex-specific to assess biologically meaningful differences in body composition between sexes [@bredella2017]. Two stepwise models examined covariate effects: Model 1 (age and sex) and model 2 (+ smoking status and physical activity) Estimates for log-transformed outcomes were back-transformed and presented as percentage differences, while body fat percentage is presented as mean difference in percentage points. Model assumptions of linearity, homoscedasticity and normality of residuals were assessed with residual plots and found to be reasonably met.
-
-**Something about complete case analysis**
+Associations between identified clusters and measures of fat distribution were assessed using linear regression models with clusters as independent, categorical variables and VAT, SAT, VAT/SAT ratio and body fat percentage as dependent, continuous variables. VAT, SAT and the VAT/SAT ratio were log-transformed before analysis to account for right-skewed distributions. For the main analysis, all outcome variables were standardized to strengthen comparison of associations across outcomes. Body fat percentage was standardized on the original scale, while VAT, SAT and VAT/SAT ratio were standardized after log-transformation. Two stepwise models examined covariate effects: Model 1 adjusted for age and sex and model 2 further adjusted for smoking status and physical activity. Sex-specific associations were assessed in stratified models to account for biologically meaningful differences in body composition between sexes [@bredella2017], and sex-by-cluster interaction terms were tested in the main models. Because no statistically significant (p \> 0.05) interactions were found, interaction terms were kept out of the main models. To facilitate clinical interpretation, the regression analyses were repeated using non-standardized outcomes and these results are shown in \*\*\***supplementary table x**\*\*\*. Model assumptions of linearity, homoscedasticity and normality of residuals were assessed with residual plots and found to be reasonably met.
 
 **Something about what software was used**
