@@ -1,11 +1,6 @@
 ---
 title: "Introduction"
-Author: "Mikkel E. Steentoft"
-format: pdf
-theme: cosmo
-editor: visual
-bibliography: references.bib
-csl: acta-diabetologica.csl
+suppress-bibliography: true
 ---
 
 The global prevalence of type 2 diabetes (T2D) and related complications continues to rise, indicating that existing prevention and treatment strategies are insufficient to slow disease progression [@saeedi2019; @ahlqvist2018]. This may partly reflect that T2D is a more complex and heterogeneous disease than previously assumed, and that a diagnosis based only on glucose levels may not capture underlying pathophysiological drivers. Data-driven phenotyping has begun to assess this complexity, by identifying distinct subgroups with different pathological characteristics and risk-trajectories [@ahlqvist2018; @misra2023; @li2024]. Emerging evidence suggests that this heterogeneity is already present among individuals with prediabetes, highlighting an opportunity for more targeted prevention before diabetes onset [@wagner2026; @onthoni2025; @wagner2021]. Current risk stratification in prediabetes relies on glycemic states such as impaired fasting glucose and impaired glucose tolerance, which arise from a combination of insulin resistance and declining beta-cell function [@echouffo-tcheugui2021]. While glucose patterns during an oral glucose tolerance test (OGTT) help characterize glycemic states and risk trajectories, they provide limited insights into broader metabolic heterogeneity.
