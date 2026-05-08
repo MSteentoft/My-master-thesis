@@ -1,0 +1,61 @@
+# Tables and figures
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| include: false
+
+library(gt)
+library(tibble)
+```
+
+```{=latex}
+\newpage
+\vspace*{-2.5cm}
+\noindent\hspace*{-1.8cm}%
+\includegraphics[width=1.17\textwidth]{images/table_1_final.pdf}
+\par
+```
+
+```{=latex}
+\newpage
+\vspace*{-1.5cm}
+\noindent\hspace*{-1.6cm}%
+\includegraphics[width=1.17\textwidth]{images/table_2_final.pdf}
+\par
+```
+
+\newpage
+\begin{landscape}
+\thispagestyle{empty}
+\vspace*{-0.8cm}
+
+\noindent\hspace*{-0.8cm}%
+\includegraphics[
+  width=1.10\linewidth,
+  height=0.80\textheight,
+  keepaspectratio
+]{images/figure_1_final.pdf}
+
+\vfill
+\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
+{\footnotesize Mikkel Errboe Steentoft \hfill Page \thepage\ of 68}
+\end{landscape}
+\newpage
+\begin{landscape}
+\thispagestyle{empty}
+\vspace*{-0.8cm}
+
+\begin{center}
+\includegraphics[
+  width=1.10\linewidth,
+  height=0.80\textheight,
+  keepaspectratio
+]{images/figure_2_final.pdf}
+\end{center}
+
+\vfill
+\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
+{\footnotesize Mikkel Errboe Steentoft \hfill Page \thepage\ of 68}
+\end{landscape}

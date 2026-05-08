@@ -1,0 +1,17 @@
+# **Abstract** {.unnumbered}
+
+### Objective
+
+This study aimed to identify metabolic subgroups among individuals at high risk of type 2 diabetes (T2D) based on glucose and hormonal responses from the oral glucose tolerance test, and to quantify their associations with measures of body fat distribution.
+
+### **Research Design and Methods**
+
+K-means clustering was applied to 1,381 individuals at high risk of T2D from the ADDITION-PRO cohort. Clustering variables included measures of glucose, glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide (GIP), insulin sensitivity and glucagon suppression. Visceral (VAT) and subcutaneous (SAT) adipose tissue and body fat percentage were assessed by ultrasonography and bioelectrical impedance analysis. Associations between clusters and standardized measures of fat distribution were assessed through linear regression models adjusting for age, sex, smoking and physical activity.
+
+### **Results**
+
+Three clusters were identified. Cluster 3 had the highest glucose levels, lowest insulin sensitivity, and highest VAT, SAT, VAT/SAT ratio and body fat percentage (0.68, 0.28, 0.18 and 0.63 SD units higher than cluster 2, respectively). Despite similar glycemic profiles, cluster 1 had the lowest incretin secretion but highest glucagon suppression, while cluster 2 showed the opposite pattern. Cluster 1 had similar VAT to cluster 2 but higher SAT (0.25 SD), body fat percentage (0.15 SD units higher) and a lower VAT/SAT ratio (-0.23 SD).
+
+### **Conclusions**
+
+Three subgroups with distinct incretin and glucagon response patterns were identified, which also differed in body fat distribution. As findings are limited by the cross-sectional design, future prospective studies should examine whether this heterogeneity predicts different risk trajectories for T2D and responses to prevention strategies.

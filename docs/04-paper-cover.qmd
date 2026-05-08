@@ -1,0 +1,44 @@
+#   {.unnumbered .unlisted}
+
+```{=latex}
+\begin{center}
+{\Huge\textbf{Manuscript}}
+\end{center}
+\newpage
+
+\newgeometry{top=2.8cm,bottom=3.0cm,left=2.2cm,right=2.2cm}
+\vspace*{1.2cm}
+{\raggedright
+\vspace{0.15cm}
+{\fontsize{16}{20}\selectfont Heterogeneity in GLP-1, GIP and glucagon responses to the oral glucose tolerance test among individuals at high risk of type 2 diabetes: The ADDITION-PRO study\par}
+\vspace{-0.8cm}
+\noindent\rule{\textwidth}{0.4pt}
+\vspace{-2cm}
+{\fontsize{14}{18}\selectfont\textbf{Running title:} GLP-1, GIP and glucagon responses in prediabetes\par}
+}
+
+\vfill
+\noindent
+\begin{minipage}[t]{0.62\textwidth}
+\small
+\textbf{Author:} Mikkel Errboe Steentoft, MSc (cand.scient.san.)\\
+\textbf{Affiliation:} Department of Public Health, Aarhus University\\
+and Steno Diabetes Center Aarhus, Aarhus, Denmark\\
+\textbf{Corresponding author:} Mikkel Errboe Steentoft\\
+\textbf{Email:} milram@rm.dk\\
+\textbf{Word count:} [xxxx]\\
+\textbf{Number of tables:} 2\\
+\textbf{Number of figures:} 2
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.22\textwidth}
+\raggedleft
+\small
+Health\\
+Aarhus University\\
+2026
+\end{minipage}
+\restoregeometry
+\setstretch{1.5}
+\newpage
+```

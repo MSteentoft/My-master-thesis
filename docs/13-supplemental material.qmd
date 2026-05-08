@@ -1,0 +1,61 @@
+# Supplemental material
+
+```{=latex}
+\begin{landscape}
+\thispagestyle{empty}
+\vspace*{0cm}
+
+\begin{center}
+\noindent\hspace*{-5cm}%
+\includegraphics[
+width=1.4\linewidth,
+height=1.5\textheight,
+keepaspectratio,
+trim=0cm 12cm 0cm 0cm,
+clip
+]{images/supplementary_table_1_sex_clusters_final.pdf}
+\end{center}
+
+\vfill
+\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
+{\footnotesize Mikkel Errboe Steentoft \hfill Page \thepage\ of 68}
+\end{landscape}
+```
+
+```{=latex}
+\vspace*{0.5cm}
+\noindent\hspace*{-1.5cm}%
+\includegraphics[
+width=1.15\textwidth,
+keepaspectratio,
+trim=0cm 5cm 0cm 1cm,
+]{images/supplementary_table_2_ogtt_measures_final.pdf}
+\par
+```
+
+```{=latex}
+\newpage
+\vspace*{-0.9cm}
+\noindent\hspace*{-1.6cm}%
+\includegraphics[width=1.15\textwidth]{images/supplementary_table_3_original_values_final.pdf}
+\par
+```
+
+```{=latex}
+\begin{landscape}
+\thispagestyle{empty}
+\vspace*{-0.8cm}
+
+\begin{center}
+\includegraphics[
+  width=1.10\linewidth,
+  height=0.80\textheight,
+  keepaspectratio
+]{images/supplementary_figure_1_forest_plot_final.pdf}
+\end{center}
+
+\vfill
+\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
+{\footnotesize Mikkel Errboe Steentoft \hfill Page \thepage\ of 68}
+\end{landscape}
+```
