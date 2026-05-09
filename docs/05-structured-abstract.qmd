@@ -2,11 +2,11 @@
 
 ### Objective
 
-This study aimed to identify metabolic subgroups among individuals at high risk of type 2 diabetes (T2D) based on glucose and hormonal responses from the oral glucose tolerance test, and to quantify their associations with measures of body fat distribution.
+This study aimed to identify metabolic subgroups among individuals at high risk of type 2 diabetes based on glucose and hormonal responses from the oral glucose tolerance test and to quantify their associations with measures of body fat distribution.
 
 ### **Research Design and Methods**
 
-K-means clustering was applied to 1,381 individuals at high risk of T2D from the ADDITION-PRO cohort. Clustering variables included measures of glucose, glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide (GIP), insulin sensitivity and glucagon suppression. Visceral (VAT) and subcutaneous (SAT) adipose tissue and body fat percentage were assessed by ultrasonography and bioelectrical impedance analysis. Associations between clusters and standardized measures of fat distribution were assessed through linear regression models adjusting for age, sex, smoking and physical activity.
+K-means clustering was applied to 1,381 individuals at high risk of type 2 diabetes from the ADDITION-PRO cohort. Clustering variables included measures of glucose, incretins (glucagon-like peptide-1 and glucose-dependent insulinotropic polypeptide), insulin sensitivity and glucagon suppression. Visceral (VAT) and subcutaneous (SAT) adipose tissue and body fat percentage were assessed by ultrasonography and bioelectrical impedance analysis. Associations between clusters and standardized measures of fat distribution were assessed through linear regression models adjusting for age, sex, smoking and physical activity.
 
 ### **Results**
 
