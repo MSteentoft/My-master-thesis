@@ -1,15 +1,5 @@
 # Tables and figures
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-#| include: false
-
-library(gt)
-library(tibble)
-```
-
 ```{=latex}
 \newpage
 \vspace*{-2.5cm}
@@ -40,7 +30,7 @@ library(tibble)
 
 \vfill
 \noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
-{\footnotesize Mikkel Errboe Steentoft \hfill Page \thepage\ of 68}
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
 \newpage
 \begin{landscape}
@@ -57,5 +47,5 @@ library(tibble)
 
 \vfill
 \noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
-{\footnotesize Mikkel Errboe Steentoft \hfill Page \thepage\ of 68}
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
