@@ -1,0 +1,143 @@
+# Appendix C: Systematic literature search
+
+A systematic literature search was performed on the 30^th^ of January 2026 to identify relevant literature and research papers for this thesis. The search was conducted on both PubMed and Scopus databases using three different search blocks presented in the following tables. The three blocks were constructed to capture the main themes of this thesis: Heterogeneity in prediabetes, dynamic glucose, insulin and hormonal responses during OGTT and associations to fat distribution. The operator *AND* was applied between blocks and the operator *OR* was applied between terms within each block.
+
+\needspace{15\baselineskip}
+
+**Block 1) Heterogeneity in glucose metabolism assessed during OGTT among individuals with prediabetes**
+
++--------+-------------------+--------+-----------------------------+--------+---------------+--------+
+|        |                   |        |                             |        |               |        |
++========+===================+========+=============================+========+===============+========+
+|        | Prediabetes       |        | Oral glucose tolerance test |        | Cluster\*     |        |
+|        |                   |        |                             |        |               |        |
+|        | **OR**            |        | **OR**                      |        | **OR**        |        |
+|        |                   |        |                             |        |               |        |
+|        | Prediabetic state |        | OGTT                        |        | Subtype\*     |        |
+|        |                   |        |                             |        |               |        |
+|        | **OR**            |        | **OR**                      |        | **OR**        |        |
+|        |                   |        |                             |        |               |        |
+|        |                   |        | Glucose metabolism          |        | Phenotype\*   |        |
+|        |                   |        |                             |        |               |        |
+|        |                   |        | **OR**                      |        | **OR**        |        |
+|        |                   |        |                             |        |               |        |
+|        |                   |        | "Blood Glucose"             |        | Heterogeneity |        |
++--------+-------------------+--------+-----------------------------+--------+---------------+--------+
+
+\needspace{15\baselineskip}
+
+**Block 2) Dynamic responses of glucose metabolism and hormonal secretion among individuals with prediabetes**
+
++------+-------------------+------+-----------------------------+------+--------------------------------+------+----------+------+
+|      |                   |      |                             |      |                                |      |          |      |
++======+===================+======+=============================+======+================================+======+==========+======+
+|      | Prediabetes       |      | Oral glucose tolerance test |      | Insulin                        |      | Dynamic  |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      | **OR**            |      | **OR**                      |      | **OR**                         |      | **OR**   |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      | Prediabetic state |      | OGTT                        |      | Glucagon                       |      | Response |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      |                   |      | **OR**                      |      | **OR**                         |      |          |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      |                   |      | Glucose metabolism          |      | Glucagon-like peptide-1        |      |          |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      |                   |      | **OR**                      |      | **OR**                         |      |          |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      |                   |      | Blood Glucose               |      | Gastric inhibitory polypeptide |      |          |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      |                   |      |                             |      | **OR**                         |      |          |      |
+|      |                   |      |                             |      |                                |      |          |      |
+|      |                   |      |                             |      | Incretin                       |      |          |      |
++------+-------------------+------+-----------------------------+------+--------------------------------+------+----------+------+
+
+**Block 3) Glucose metabolism during OGTT and associations to measures of fat distribution**
+
++--------+--------------------+--------+-----------------------------+--------+-------------------------+--------+
+|        |                    |        |                             |        |                         |        |
++========+====================+========+=============================+========+=========================+========+
+|        | Prediabetes        |        | OGTT                        |        | Subcutaneous fat        |        |
+|        |                    |        |                             |        |                         |        |
+|        | **OR**             |        | **OR**                      |        | **OR**                  |        |
+|        |                    |        |                             |        |                         |        |
+|        | Prediabetic state  |        | Oral glucose tolerance test |        | Intra-abdominal fat     |        |
+|        |                    |        |                             |        |                         |        |
+|        | **OR**             |        |                             |        | **OR**                  |        |
+|        |                    |        |                             |        |                         |        |
+|        | "Blood Glucose"    |        |                             |        | Body fat distribution   |        |
+|        |                    |        |                             |        |                         |        |
+|        | **OR**             |        |                             |        | **OR**                  |        |
+|        |                    |        |                             |        |                         |        |
+|        | Glucose metabolism |        |                             |        | Visceral adipose tissue |        |
++--------+--------------------+--------+-----------------------------+--------+-------------------------+--------+
+
+The three blocks were then combined to one search string used on both PubMed and Scopus. The search was limited to studies published between 2010 and 2026 excluding studies conducted on mice and rats. The time restriction was chosen to capture current phenotyping studies and methodological approaches in prediabetes and type 2 diabetes research.
+
+\needspace{15\baselineskip}
+
+**Search string used on PubMed:**
+
+```         
+((((((Prediabetes [tiab]) OR ("Prediabetic State"[Mesh])) AND (((((("Glucose Tolerance 
+Test"[Mesh]) OR (OGTT[tiab])) OR (Oral glucose tolerance test[tiab])) OR ("Blood 
+Glucose"[Mesh])) OR (Blood glucose[tiab])) OR (Glucose metabolism[tiab]))) AND 
+((((Cluster* [tiab]) OR (Subtype* [tiab])) OR (Phenotype*[tiab])) OR 
+(Heterogeneity[tiab]))) OR ((((((Prediabetes [tiab]) OR ("Prediabetic State"[Mesh])) 
+OR ("Blood Glucose"[Mesh])) OR (Glucose metabolism[tiab])) AND (((OGTT[tiab]) OR 
+(Oral glucose tolerance test[tiab])) OR ("Glucose Tolerance Test"[Mesh]))) AND 
+(((((("Subcutaneous Fat"[Mesh]) OR (subcutaneous fat[tiab])) AND ("Intra-Abdominal 
+Fat"[Mesh])) OR (Intra-Abdominal Fat[tiab])) OR ("Body Fat Distribution"[Mesh])) OR 
+(Visceral adipose tissue[tiab])))) OR (((((Prediabetes [tiab]) OR ("Prediabetic 
+State"[Mesh])) AND (((((("Glucose Tolerance Test"[Mesh]) OR (OGTT[tiab])) OR (Oral 
+glucose tolerance test[tiab])) OR ("Blood Glucose"[Mesh])) OR (Blood glucose[tiab])) 
+OR (Glucose metabolism[tiab]))) AND (((((((((("Insulin"[Mesh]) OR (Insulin[tiab])) OR 
+("Glucagon"[Mesh])) OR (Glucagon[tiab])) OR ("Glucagon-Like Peptide 1"[Mesh])) OR 
+(Glucagon-like peptide-1[tiab])) OR ("Gastric Inhibitory Polypeptide"[Mesh])) OR 
+(Gastric Inhibitory Polypeptide[tiab])) OR ("Incretins"[Mesh])) OR 
+(Incretin*[tiab]))) AND ((Dynamic[tiab]) OR (Response[tiab])))) NOT ((mice) OR 
+(rats)) Filters: from 2010/1/1 - 2026/12/31
+```
+
+\needspace{15\baselineskip}
+
+**Search string used on Scopus:**
+
+```         
+( ( ( ( TITLE-ABS-KEY ( prediabetes ) ) OR ( TITLE-ABS-KEY ( prediabetic state ) ) ) 
+AND ( ( TITLE-ABS-KEY ( Oral glucose tolerance test ) ) OR ( TITLE-ABS-KEY ( OGTT ) ) 
+OR ( TITLE-ABS-KEY ( Glucose metabolism ) ) OR ( TITLE-ABS-KEY ( Blood glucose ) ) ) 
+AND ( ( TITLE-ABS-KEY ( Cluster* ) ) OR ( TITLE-ABS-KEY ( Subtyp* ) ) OR 
+( TITLE-ABS-KEY ( Phenotyp* ) ) OR ( TITLE-ABS-KEY ( heterogeneity ) ) ) ) OR 
+( ( ( TITLE-ABS-KEY ( prediabetes ) ) OR ( TITLE-ABS-KEY ( prediabetic state ) ) ) 
+AND ( ( TITLE-ABS-KEY ( Oral glucose tolerance test ) ) OR ( TITLE-ABS-KEY ( OGTT ) ) 
+OR ( TITLE-ABS-KEY ( Glucose metabolism ) ) OR ( TITLE-ABS-KEY ( Blood glucose ) ) ) 
+AND ( ( TITLE-ABS-KEY ( Insulin ) ) OR ( TITLE-ABS-KEY ( glucagon ) ) OR 
+( TITLE-ABS-KEY ( glucagon like peptide 1 ) ) OR ( TITLE-ABS-KEY ( Gastric inhibitory 
+polypeptide ) ) ) AND ( ( TITLE-ABS-KEY ( Dynamic ) ) OR ( TITLE-ABS-KEY ( Response ) 
+) ) ) OR ( ( ( TITLE-ABS-KEY ( prediabetes ) ) OR ( TITLE-ABS-KEY ( prediabetic state 
+) ) ) AND ( ( TITLE-ABS-KEY ( Oral glucose tolerance test ) ) OR ( TITLE-ABS-KEY ( 
+OGTT ) ) OR ( TITLE-ABS-KEY ( Glucose metabolism ) ) OR ( TITLE-ABS-KEY ( Blood 
+glucose ) ) ) AND ( ( TITLE-ABS-KEY ( subcutaneous fat ) ) OR ( TITLE-ABS-KEY ( 
+Intra-abdominal fat ) ) OR ( TITLE-ABS-KEY ( Body fat distribution ) ) OR 
+( TITLE-ABS-KEY ( Visceral adipose tissue ) ) ) ) AND PUBYEAR > 2009 AND PUBYEAR < 
+2027 ) AND NOT ( ( TITLE-ABS-KEY ( mice ) ) OR ( TITLE-ABS-KEY ( Rats ) ) )
+```
+
+
+A total of 2,730 articles were identified and imported to Covidence. After removal of 634 duplicates, 2,096 records were screened by title and abstract, followed by full-text screening of 105 articles. In total, 24 articles were included in this thesis. Appendix figure C-1 shows the PRISMA flow-chart of the screening process. Additional literature and research papers were identified through chain and citation searches based on the included studies from the systematic search.
+
+\needspace{15\baselineskip}
+
+```{=latex}
+\vspace{0.5cm}
+\noindent\textbf{Appendix figure C-1:} Flowchart of the literature screening process in Covidence.
+
+\vspace{0cm}
+
+\noindent\hspace*{-0.9cm} \includegraphics[
+  width=1.10\linewidth,
+  height=0.80\textheight,
+  keepaspectratio,
+  trim=0cm 3cm 0cm 3cm,
+  clip
+]{images/Covidence.pdf}
+```

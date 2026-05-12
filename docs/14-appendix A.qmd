@@ -4,107 +4,135 @@ number-sections: true
 bibliography: references.bib
 ---
 
-# Appendix A: Epidemiological considerations of the study design and population
+# Appendix A: Study design, population and epidemiological considerations
 
-In the following section, the epidemiological considerations of this study will be further elaborated and discussed, as these may have important implications for the interpretability of the results. First, the study design and population will be discussed, followed by an assessment of covariate adjustment, missing data analysis and potential selection bias and finally the role of sex as a potential effect modifier of the cluster-outcome associations.
+In the following section, the epidemiological considerations of this study will be further elaborated and discussed, as these have implications for the interpretability of the results. First, the study design and population will be discussed, followed by an assessment of covariate adjustment, missing data analysis and selection bias and sex differences in metabolic phenotyping.
 
 ## Study design and population
 
-The present study was based on participants from the follow-up health assessment in the ADDITION-PRO study[@johansen2012], as described in the methods section. The use of clinical, observational data at a certain time point has its limitations regarding the validity of the findings. The three clusters identified in the study were treated as independent, explanatory variables in the subsequent regression analysis, with measures of fat distribution as dependent variables. In a conventional regression analysis, this implies a directional relationship where cluster characteristics are the cause of the observed differences in fat distribution. However, with all measurements assessed at the same time, the temporal ordering between the exposures and outcomes cannot be established, and the cross-sectional design is therefore not well-suited to assess causal relationships. While several prior clustering studies have used longitudinal follow-up data to assess incident outcomes [@wagner2021; @onthoni2025], the aim of the present study was to characterize metabolic subgroups at a single time point, for which a cross-sectional design was considered appropriate, as cross-sectional designs are suited to examine associations and generate hypotheses [@chapter2020].
+The present study was based on participants from the follow-up health assessment in the ADDITION-PRO study[@johansen2012], as described in the methods section. The use of clinical, observational data at a certain time point has its limitations regarding the validity of the findings. The three clusters identified in the study were treated as independent, explanatory variables in the subsequent regression analysis, with measures of fat distribution as outcome variables. In a conventional regression analysis, this implies a directional relationship where cluster characteristics are the cause of the observed differences in fat distribution. However, with all measurements assessed at the same time, the temporal ordering between the exposures and outcomes cannot be established, and the cross-sectional design is therefore not well-suited to assess causal relationships. While several prior clustering studies have used longitudinal follow-up data to assess incident outcomes [@wagner2021; @onthoni2025], the aim of the present study was to characterize metabolic subgroups at a single time point, for which a cross-sectional design was considered appropriate, as cross-sectional designs are suited to examine associations and generate hypotheses [@chapter2020].
 
-The initial step-wise screening program through the ADDITION-DK protocol served to establish a relatively large cohort of individuals at high risk of diabetes (≥ 5 points on the diabetes risk score questionnaire), of which 22,200 did not have diabetes. From these individuals, the ADDITION-PRO cohort was designed to be comprised of individuals with different levels of diabetes risk as well as a random subgroup at low risk of diabetes [@johansen2012]. Thus, the population in this study is reasonably representative in relation to the target population being people with prediabetes. However, it is worth considering the non-attenders (50%) in the ADDITION-PRO study, who were more likely to have a normal weight and also less likely to have a family history of diabetes. Consequently, the participants in this study are more likely to be overweight and obese, which is associated with both higher visceral adipose tissue and more adverse metabolic profiles [@verkouter2019]. This may have implications for the clustering profiles and their associated patterns of fat distribution, which may be more pronounced than they would be in the general high-risk population.
+The initial step-wise screening program through the ADDITION-DK protocol served to establish a relatively large cohort of individuals at high risk of diabetes, of which 22,200 did not have diabetes. Based on this, the ADDITION-PRO cohort was designed to be comprised of individuals with different levels of diabetes risk as well as a random subgroup at low risk of diabetes [@johansen2012]. Thus, the population in this study is reasonably representative in relation to the target population being individuals at high risk of type 2 diabetes. However, it is worth considering the non-attenders (50%) in the ADDITION-PRO study, who were more likely to have a normal weight and also less likely to have a family history of diabetes. Consequently, the participants in this study are more likely to be overweight and obese, which is associated with both higher visceral adipose tissue and more adverse metabolic profiles [@verkouter2019]. This may have implications for the clustering profiles and their associated patterns of fat distribution, which may be more pronounced than they would be in the general high-risk population.
 
-## Covariate adjustment
+## Covariate selection and adjustment
 
-In the regression analyses, model 1 was adjusted for age and sex, with further adjustment for smoking status and physical activity in model 2. The purpose of covariate adjustment was to assess whether associations between clusters and patterns of fat distribution persisted independently of possible confounders, rather than estimating causal pathways between exposure and outcomes, as this is difficult given the cross-sectional data and multivariate clustering.
+In the regression analyses, model 1 was adjusted for age and sex, with further adjustment for smoking status and physical activity in model 2. The purpose of covariate adjustment was to assess whether associations between clusters and patterns of fat distribution persisted independently of potential confounders, rather than estimating causal pathways between exposure and outcomes, as this is difficult given the cross-sectional design and multivariate clustering.
 
-### Considerations about BMI and waist circumference
+**BMI and waist circumference**
 
-BMI and waist circumference are commonly used as proxy measures for overall and abdominal adiposity [@bykershanks2025; @ross2020]. Accordingly, in the context of this research question, adjustment for BMI or waist circumference would change the interpretation of the analysis from describing total differences in adiposity across clusters to assessing differences in body fat distribution conditional on BMI and waist circumference. Since the clusters differ in BMI and waist circumference, these variables capture the same obesity dimension as the fat distribution measures, and adjusting for them could risk over-adjustment by removing variation that reflects differences in adiposity between clusters rather than confounding.
+BMI and waist circumference are commonly used as proxy measures for overall and abdominal adiposity [@bykershanks2025; @ross2020]. In the context of this study, adjustment for BMI or waist circumference would change the interpretation of the analysis from describing overall differences in adiposity across clusters to assessing differences in body fat distribution conditional on BMI and waist circumference. Because the clusters differed in BMI and waist circumference, these variables were a part of the overall adiposity pattern and were therefore not included as covariates in the regression models.
 
-### Adjustment for age and sex
+**Age and sex**
 
 Previous studies have shown that insulin secretion and action are reduced at older age, though the effect of age on insulin secretion was most pronounced in men [@basu2006]. Furthermore, women with normal glucose regulation exhibit higher insulin sensitivity than men [@kautzky-willer2012] and, as commented on in the discussion section, women also show 20% higher overall GLP-1 secretion [@færch2015]. Additionally, both VAT and to a lesser degree SAT increase with age [@marquardt2025], and visceral adipose tissue accounts for a higher percentage of the total body fat in men than in women [@palmer2015].
 
-### Adjustment for smoking status and physical activity
+**Smoking and physical activity**
 
 Smoking is associated with both insulin resistance [@chiolero2008] and may also lead to increased abdominal fat [@carrasquilla2024]. In addition, physical activity reduces the risk of insulin resistance in a dose-response relationship, with higher levels (intensity and energy expenditure) of physical activity leading to a greater risk-reduction [@bird2017]. Further, studies suggest that physical activity is associated with both glucose regulation and beta-cell sensitivity to GLP-1 in overweight women [@åkerström2022], and with lower fasting and higher glucose-dependent GLP-1 secretion in men [@janus2019]. Finally, higher levels of physical activity are associated with lower levels of both VAT and SAT in men and women [@murabito2015].
 
-In summary, all four covariates adjusted for in the analysis are potentially associated with both cluster membership and measures of fat distribution. However, adjustment for smoking status and physical activity resulted in minimal attenuation of the associations, suggesting that the observed cluster differences in fat distribution are not primarily explained by differences in lifestyle factors between clusters.
+Overall, all four covariates adjusted for in the analysis are potentially associated with both cluster membership and measures of fat distribution. However, adjustment for smoking status and physical activity resulted in minimal attenuation of the associations, suggesting that the observed cluster differences in fat distribution are not primarily explained by differences in lifestyle factors between clusters, although residual confounding cannot be excluded.
 
 ## Missing data and selection bias
 
-The exclusion process was carried out in two steps. First, participants were excluded before the cluster analysis because of missing data required for clustering. Appendix table A-1 compares individuals included and excluded at this step.
+The exclusion process was carried out in two steps. First, participants were excluded from the cluster analysis according to previously described criteria. Appendix table A-1 compares individuals included and excluded at this step.
 
+```{=latex}
 \vspace{0.2cm}
 
 \noindent\hspace*{-0.7cm} \noindent\makebox[\textwidth][c]{%
 \includegraphics[
   width=1.05\textwidth,
-  trim=2cm 17cm 2cm 1cm,
+  trim=2cm 17.7cm 2cm 1cm,
   clip
 ]{images/appendix_table_a1_missing_cluster_final.pdf}
-} \vspace{0.2cm}
+} \vspace{0cm}
+```
 
-Participants excluded before the cluster analysis were more metabolically compromised, with higher values in adiposity measures and HbA1c compared with included participants. In contrast, demographic and lifestyle characteristics were broadly similar, suggesting that this selection step mainly reflected metabolic differences rather than demographic differences. Of the 701 participants excluded before the cluster analysis, 114 reported medication for type 2 diabetes and may therefore be expected to have higher BMI, visceral fat and HbA1c, which may partly explain these differences.
+\needspace{15\baselineskip}
 
-Second, participants were excluded from the regression analyses because of missing data on outcomes or covariates. Appendix table A-2 compares individuals included and excluded at this step.
+Participants excluded from the cluster analysis were more metabolically compromised, with higher values in adiposity measures and HbA1c than included participants. In contrast, demographic and lifestyle characteristics were broadly similar, suggesting that this selection step mainly reflected metabolic differences rather than demographic differences. Of the 701 participants excluded before the cluster analysis, 114 reported to take medication for type 2 diabetes and may therefore be expected to have higher BMI, visceral fat and HbA1c, which may partly explain these differences.
 
+Second, participants were excluded from the regression analyses because of missing data on outcomes or covariates. Appendix table A-2 compares participants included and excluded at this step.
+
+```{=latex}
 \vspace{0.2cm}
 
 \noindent\hspace*{-0.7cm} \noindent\makebox[\textwidth][c]{%
 \includegraphics[
   width=1.05\textwidth,
-  trim=2cm 13cm 2cm 1cm,
+  trim=2cm 14.2cm 2cm 1cm,
   clip
 ]{images/appendix_table_a2_missing_regression_final.pdf}%
-} \vspace{0.2cm}
+} \vspace{0cm}
+```
 
-Participants excluded from the regression analysis had higher AUC glucose and insulin and were more likely to have type 2 diabetes, iGT and IFG+iGT, but were similar in age, sex, AUC GLP-1, GIP and glucagon suppression compared with included participants. Of the 175 participants excluded from the regression analysis, 47 (27%) belonged to cluster 1, 43 (25%) to cluster 2 and 85 (49%) to cluster 3. The disproportionate exclusion from cluster 3 is consistent with the higher BMI and waist circumference among excluded participants and may indicate that the observed differences between cluster 3 and the other clusters are underestimated.
+\needspace{15\baselineskip}
 
-Overall, while both exclusion steps removed more metabolically compromised individuals, the 2,082 participants who attended the ADDITION-PRO health assessment may in general be more metabolically healthy than those who did not attend. In summary, the direction of potential selection bias is unclear and the final analytical sample could be either more or less metabolically compromised than the target population. This uncertainty should be considered when interpreting the generalisability of the findings. Sensitivity analysis excluding individuals with screen-detected type 2 diabetes
+Participants excluded from the regression analysis had higher AUC glucose and insulin and were more likely to have type 2 diabetes, iIGT and IFG+IGT, but were similar in age, sex, AUC GLP-1, GIP and glucagon suppression compared with included participants. Of the 175 participants excluded from the regression analysis, 47 (27%) belonged to cluster 1, 43 (25%) to cluster 2 and 85 (49%) to cluster 3. The disproportionate exclusion from cluster 3 is consistent with the higher BMI and waist circumference among excluded participants and may indicate that the differences between cluster 3 and the other clusters could be underestimated.
 
-Of the 1381 participants included in the clustering analysis, n = 160 had screen-detected type 2 diabetes according to the 2006 WHO-criteria as described in the methods. While the target population for this study is individuals at high risk of diabetes, inclusion of participants with screen-detected type 2 diabetes could influence the observed associations and the generalisability to high-risk individuals without diabetes. To assess this, we performed a sensitivity analysis in which k-means clustering was repeated after excluding all participants with screen-detected type 2 diabetes (appendix table A-3). This produced a three-cluster solution with broadly similar hormonal response profiles to the main analysis, suggesting that the structure of the clusters is not driven by the inclusion of individuals with screen-detected type 2 diabetes.
+Overall, both exclusion steps removed more metabolically compromised participants, whereas the 2,082 participants who attended the ADDITION-PRO health assessment may in general have been more metabolically healthy than those who did not attend. Consequently, the overall direction of potential selection bias is difficult to determine. This uncertainty should be considered when interpreting the generalisability of the findings.
+
+## Sensitivity analyses excluding screen-detected type 2 diabetes
+
+Of the 1381 participants included in the clustering analysis, n = 160 had screen-detected type 2 diabetes according to the 2006 WHO-criteria as described in the methods. While the target population for this study is individuals at high risk of diabetes, inclusion of participants with screen-detected type 2 diabetes could influence the observed associations and the generalisability to high-risk individuals without diabetes. To assess this, we performed a sensitivity analysis in which K-means clustering was repeated after excluding all participants with screen-detected type 2 diabetes (Appendix table A-3). This produced a three-cluster solution with broadly similar hormonal response profiles to the main analysis, suggesting that the structure of the clusters is not driven by the inclusion of participants with screen-detected type 2 diabetes.
 
 ```{=latex}
 \vspace{0.2cm}
 \noindent\hspace*{-0.5cm}
 \noindent\makebox[\textwidth][c]{%
 \includegraphics[
-  width=1.05\textwidth,
-  trim=0cm 22cm 0cm 1cm,
+  width=1.2\textwidth,
+  trim=0cm 22.5cm 0cm 1cm,
   clip
-]{images/appendix_table_a3_no_t2d_cluster_final.pdf}%
+]{images/appendix_table_a3_no_t2d_cluster_final_corrected.pdf}%
 }
-\vspace{0.2cm}
+\vspace{-1cm}
 ```
 
-Additionally, of the 1206 participants included in the regression analysis, n = 127 had screen-detected type 2 diabetes. To assess this, we performed another sensitivity analysis in which the fully adjusted regression model was repeated after exclusion of these 127 individuals (Appendix table A-4). Most of the individuals with screen-detected type 2 diabetes belonged to cluster 3 (111 of 127), and removing them from the sensitivity analysis likely reduced cluster 3 disproportionally. Exclusion of these individuals attenuated the association between cluster 3 and visceral fat (0.56 vs 0.68 SD units in the main analysis), while the association with subcutaneous fat was largely unchanged (0.29 vs 0.28 SD units). Consequently, the association between cluster 3 and the VAT/SAT ratio was attenuated and no longer statistically significant (0.10 vs 0.18 SD units). Associations with body fat percentage was also attenuated (0.55 vs 0.62 SD units) but remained statistically significant. Overall, these findings suggest that individuals with screen-detected type 2 diabetes contributed to the more adverse fat distribution of cluster 3, but exclusion of these individuals did not change the overall pattern of the associations.
+\needspace{15\baselineskip}
 
+A corresponding sensitivity analysis was performed for the regression analysis, in which regression model 2 was repeated after excluding the 127 participants with screen-detected type 2 diabetes (Appendix table A-4). Most participants with screen-detected type 2 diabetes belonged to cluster 3 (111 of 127), and removing them from the sensitivity analysis likely reduced cluster 3 disproportionally. Exclusion of these participants attenuated the association between cluster 3 and visceral fat (0.56 vs 0.68 SD units in the main analysis), while the association with subcutaneous fat was largely unchanged (0.29 vs 0.28 SD units). Consequently, the association between cluster 3 and the VAT/SAT ratio was attenuated and no longer statistically significant (0.10 vs 0.18 SD units). Associations with body fat percentage was also attenuated (0.55 vs 0.62 SD units) but remained statistically significant. These findings suggest that participants with screen-detected type 2 diabetes contributed to the more adverse fat distribution of cluster 3, but exclusion of these did not change the overall pattern of the associations.
+
+```{=latex}
 \vspace{0.2cm}
 
-\noindent\hspace*{-1.2cm} \noindent\makebox[\textwidth][c]{%
+\noindent\hspace*{-0.8cm} \noindent\makebox[\textwidth][c]{%
 \includegraphics[
   width=1.05\textwidth,
-  trim=2cm 16cm 2cm 1cm,
+  trim=2cm 17.2cm 2cm 1cm,
   clip
 ]{images/appendix_table_a4_excluding_t2d_final.pdf}%
-} \vspace{0.2cm}
+} \vspace{-0.5cm}
+```
+
+\needspace{15\baselineskip}
 
 ## Sex differences in metabolic phenotyping
 
-As described in the manuscript, interaction terms between cluster membership and sex were not statistically significant, and sex-stratified clustering produced similar phenotypes as the main analysis. While a fully sex-stratified cluster and subsequent regression analysis was not performed, a descriptive comparison of the sex-stratified clusters including fat distribution measures is shown in appendix table A-5. In general, men-specific clusters exhibit worse glucagon regulation compared to the corresponding women-specific clusters, with lower insulin sensitivity, higher AUC glucose<sub>0-120</sub>, lower incretin secretion but higher glucagon suppression, with the only exception in cluster 1, where insulin sensitivity in men is higher. Regarding adiposity, men also exhibit higher visceral fat and a higher VAT/SAT ratio, whereas women have higher body fat percentage and higher subcutaneous fat. In line with previous studies [@adhikary2023], these findings indicate that how fat is distributed may be more important than total body fat volume. Notably, despite that women identified as 'high-risk' in the ADDITION-DK questionnaire potentially have a higher burden of other risk-factors, given that male sex contributed to the risk score, women still exhibit more favorable fat distribution and glucose regulation across clusters.
+As described in the manuscript, sex-by-cluster interaction terms were not statistically significant, and sex-stratified clustering produced similar phenotypes as the main analysis. Although a fully sex-stratified cluster and regression analysis was not performed, a descriptive comparison of sex-stratified clusters including fat distribution is shown in appendix table A-5. In general, men-specific clusters exhibit worse glucagon regulation compared to the corresponding women-specific clusters, with lower insulin sensitivity, higher AUC glucose<sub>0-120</sub>, lower incretin secretion but higher glucagon suppression, with the only exception in cluster 1, where insulin sensitivity in men is higher. Regarding adiposity, men also exhibit higher visceral fat and a higher VAT/SAT ratio, whereas women have higher body fat percentage and higher subcutaneous fat. In line with previous studies [@adhikary2023], these findings suggest that body fat distribution may be more informative than total body fat volume. Notably, because male sex contributed to the risk score in the ADDITION-DK cohort, women identified as high-risk may have had a higher burden of other risk-factors. Despite this, women still appeared to exhibit a more favorable fat distribution and glucose regulation across clusters.
 
-\vspace{0.2cm}
+```{=latex}
+\begin{landscape}
+\thispagestyle{empty}
+\vspace*{-1.5cm}
 
-\noindent\makebox[\textwidth][c]{%
+\begin{center}
+\noindent\hspace*{-5cm}%
 \includegraphics[
-  width=1.5\textwidth,
-  trim=0cm 8cm 0cm 1cm,
-  clip
-]{images/appendix_table_a5_sex_clusters_adiposity_final.pdf}%
-} \vspace{0.2cm}
+width=1.4\linewidth,
+height=1.5\textheight,
+keepaspectratio,
+trim=0cm 10cm 0cm 0cm,
+clip
+]{images/appendix_table_a5_sex_clusters_adiposity_final.pdf}
+\end{center}
 
-## Summary, generalisability and health care implications
+\vfill
+\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
+\end{landscape}
+```
 
-In summary, the epidemiological considerations described in this appendix imply that the findings of this thesis should be interpreted with some caution. First, the cross-sectional design implies that causality cannot be established. Second, the sample included in the analysis may not be entirely representative of the broader population of individuals at high risk of type 2 diabetes, as both the participation rate in the ADDITION-PRO study and the exclusion process in this study likely resulted in a sample with more metabolically healthy individuals. However, sensitivity analyses excluding screen-detected type 2 diabetes and applying sex-specific k-means clustering resulted in broadly similar clustering patterns, supporting the robustness of the primary findings. The results are most directly generalisable to Caucasian individuals at high-risk of type 2 diabetes identified through primary care screening, as the ADDITION-PRO cohort was mostly Caucasian (97% [@philipsen2015]). Prospective studies with more diverse cohorts are needed to confirm whether the identified metabolic subgroups and their associations to fat distribution translate to differences in clinical outcomes across different populations and could inform more targeted prevention and treatment strategies beyond standard glycemic classification in primary care settings.
+## Summary, generalisability and implications
+
+In summary, the epidemiological considerations described in this appendix imply that the findings of this thesis should be interpreted with some caution. First, the cross-sectional design implies that causality cannot be established. Second, the sample included in the analysis may not be entirely representative of the broader population of individuals at high risk of type 2 diabetes, as both the participation rate in the ADDITION-PRO study and the exclusion process in this study likely resulted in a sample with more metabolically healthy individuals. However, sensitivity analyses excluding screen-detected type 2 diabetes and applying sex-specific K-means clustering resulted in broadly similar clustering patterns, supporting the robustness of the primary findings. The results are most directly generalisable to Caucasian individuals at high risk of type 2 diabetes identified through primary care screening, as the ADDITION-PRO cohort was mostly Caucasian (97% [@philipsen2015]). Prospective studies with more diverse cohorts are needed to confirm whether the identified metabolic subgroups and their associations with fat distribution translate to differences in clinical outcomes across different populations and could inform more targeted prevention and treatment strategies beyond standard glycemic classification in primary care settings.
