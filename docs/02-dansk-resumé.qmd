@@ -1,6 +1,6 @@
 # Resumé {.unnumbered .unlisted}
 
-**Titel:** Heterogenitet i hormonelle responser blandt individer med høj risiko for type-2 diabetes: ADDITION-PRO studiet
+**Titel:** *Heterogenitet i GLP-1, GIP og glukagonresponser blandt individer med høj risiko for type-2 diabetes: ADDITION-PRO studiet*
 
 **Introduktion:** Personer med høj risiko for type-2 diabetes er mere heterogene end hvad standardiseret glykæmisk klassificering indfanger. Til trods for, at forskellige mønstre for fedtfordeling er identificeret blandt metaboliske subgrupper, er det uklart, hvordan samspillet mellem postprandiale inkretin- og glukagonresponser er associeret med fedtfordeling. Formålet med studiet var at identificere metaboliske subgrupper baseret på postprandielle hormonelle responser og undersøge deres sammenhæng med fedtfordeling.
 
