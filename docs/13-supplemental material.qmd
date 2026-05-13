@@ -17,7 +17,6 @@ clip
 \end{center}
 
 \vfill
-\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
 {\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
 ```
@@ -55,7 +54,6 @@ trim=0cm 5cm 0cm 1cm,
 \end{center}
 
 \vfill
-\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
 {\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
 ```

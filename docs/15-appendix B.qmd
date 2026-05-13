@@ -47,7 +47,6 @@ Where a(i) is the mean distance to every other point in the same cluster and b(i
 ]{images/appendix_figure_b1_silhouette_plot_final.pdf}
 
 \vfill
-\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
 {\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
 \newpage

@@ -29,7 +29,6 @@
 ]{images/figure_1_final.pdf}
 
 \vfill
-\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
 {\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
 \newpage
@@ -46,6 +45,5 @@
 \end{center}
 
 \vfill
-\noindent\rule{\linewidth}{0.4pt}\\[-0.2cm]
 {\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
 \end{landscape}
