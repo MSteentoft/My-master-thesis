@@ -4,7 +4,7 @@
 \newpage
 \vspace*{-2.5cm}
 \noindent\hspace*{-1.8cm}%
-\includegraphics[width=1.17\textwidth]{images/table_1_final.pdf}
+\includegraphics[width=1.17\textwidth]{images/table_1_final_corrected.pdf}
 \par
 ```
 
