@@ -23,7 +23,7 @@ ADDITION-PRO study\par}
 
 \nointerlineskip
 \vspace{0.05cm}
-{\fontsize{14}{16}\selectfont{Running title:} Homonal responses among high-risk individuals\par}
+{\fontsize{14}{16}\selectfont{Running title:} Hormonal responses among high-risk individuals\par}
 
 \vspace*{12.2cm}
 \noindent
