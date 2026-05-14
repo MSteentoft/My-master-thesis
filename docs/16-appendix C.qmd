@@ -1,6 +1,6 @@
 # Appendix C: Systematic literature search
 
-A systematic literature search was performed on the 30^th^ of January 2026 to identify relevant literature and research papers for this thesis. The search was conducted on both PubMed and Scopus databases using three different search blocks presented in the following tables. The three blocks were constructed to capture the main themes of this thesis: Heterogeneity in prediabetes, dynamic glucose, insulin and hormonal responses during OGTT and associations to fat distribution. The operator *AND* was applied between blocks and the operator *OR* was applied between terms within each block.
+A systematic literature search was performed on the 30^th^ of January 2026 to identify relevant literature and research papers for this thesis. The search was conducted on both PubMed and Scopus databases using three different search blocks presented in the following tables. The three blocks were constructed to capture the main themes of this thesis: Heterogeneity in prediabetes, dynamic glucose, insulin and hormonal responses during OGTT and associations with fat distribution. The operator *AND* was applied between blocks and the operator *OR* was applied between terms within each block.
 
 \needspace{15\baselineskip}
 
@@ -50,7 +50,7 @@ A systematic literature search was performed on the 30^th^ of January 2026 to id
 |      |                   |      |                             |      | Incretin                       |      |          |      |
 +------+-------------------+------+-----------------------------+------+--------------------------------+------+----------+------+
 
-**Block 3) Glucose metabolism during OGTT and associations to measures of fat distribution**
+**Block 3) Glucose metabolism during OGTT and associations with measures of fat distribution**
 
 +--------+--------------------+--------+-----------------------------+--------+-------------------------+--------+
 |        |                    |        |                             |        |                         |        |

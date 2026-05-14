@@ -55,7 +55,7 @@ While most of the observations have positive silhouette widths, a considerable p
 
 ```{=latex}
 \vspace{0.5cm} \noindent\hspace*{-0.3cm}\makebox[\textwidth][c]{
-  \includegraphics[width=1.2\textwidth, trim=2cm 20cm 2cm 1.1cm, clip]{images/appendix_table_b2_silhouette_summary_final.pdf}
+  \includegraphics[width=1.2\textwidth, trim=2cm 20cm 2cm 1.1cm, clip]{images/appendix_table_b2_silhouette_summary_final_corrected.pdf}
 } \vspace{0cm}
 ```
 
