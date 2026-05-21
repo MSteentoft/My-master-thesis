@@ -11,8 +11,8 @@
 ```{=latex}
 \newpage
 \vspace*{-1.5cm}
-\noindent\hspace*{-1.6cm}%
-\includegraphics[width=1.17\textwidth]{images/table_2_final.pdf}
+\noindent\hspace*{-2.5cm}%
+\includegraphics[width=1.3\textwidth]{images/table_2_final.pdf}
 \par
 ```
 
@@ -29,7 +29,7 @@
 ]{images/figure_1_final.pdf}
 
 \vfill
-{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 70}
 \end{landscape}
 \newpage
 \begin{landscape}
@@ -45,5 +45,5 @@
 \end{center}
 
 \vfill
-{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 70}
 \end{landscape}

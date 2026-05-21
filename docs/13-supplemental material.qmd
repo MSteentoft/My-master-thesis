@@ -17,7 +17,7 @@ clip
 \end{center}
 
 \vfill
-{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 70}
 \end{landscape}
 ```
 
@@ -35,8 +35,8 @@ trim=0cm 5cm 0cm 1cm,
 ```{=latex}
 \newpage
 \vspace*{-0.9cm}
-\noindent\hspace*{-1.6cm}%
-\includegraphics[width=1.15\textwidth]{images/supplementary_table_3_original_values_final.pdf}
+\noindent\hspace*{-2.5cm}%
+\includegraphics[width=1.3\textwidth]{images/supplementary_table_3_original_values_final.pdf}
 \par
 ```
 
@@ -54,6 +54,6 @@ trim=0cm 5cm 0cm 1cm,
 \end{center}
 
 \vfill
-{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 64}
+{\footnotesize Mikkel Errboe Steentoft \textbar\ 201609886 \hfill Page \thepage\ of 70}
 \end{landscape}
 ```
