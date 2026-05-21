@@ -14,16 +14,15 @@
 \vspace{0.15cm}
 {\fontsize{16}{20}\selectfont
 Heterogeneity in GLP-1, GIP and glucagon responses during an oral glucose
-tolerance test among individuals at high risk of type 2 diabetes: The
-ADDITION-PRO study\par}
+tolerance test among individuals at high risk of type 2 diabetes\par}
 
 \nointerlineskip
-\vspace{-0.10cm}
+\vspace{0cm}
 \noindent\rule{\textwidth}{0.4pt}
 
 \nointerlineskip
 \vspace{0.05cm}
-{\fontsize{14}{16}\selectfont{Running title:} Hormonal responses among high-risk individuals\par}
+{\fontsize{14}{16}\selectfont{Running title:} GLP1-1, GIP and glucagon patterns during OGTT\par}
 
 \vspace*{12.2cm}
 \noindent
@@ -32,7 +31,7 @@ ADDITION-PRO study\par}
 \textbf{Corresponding author:} Mikkel Errboe Steentoft\\
 \textbf{Affiliation:} Health Science MSc student, Department of Public Health, Aarhus University and Steno Diabetes Center Aarhus, Denmark\\
 \textbf{Email:} Milram@rm.dk\\
-\textbf{Word count:} [xxxx]\\
+\textbf{Word count:} 3,888\\
 \textbf{Number of tables:} 2\\
 \textbf{Number of figures:} 2
 \end{minipage}
