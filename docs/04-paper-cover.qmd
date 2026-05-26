@@ -22,7 +22,7 @@ tolerance test among individuals at high risk of type 2 diabetes\par}
 
 \nointerlineskip
 \vspace{0.05cm}
-{\fontsize{14}{16}\selectfont{Running title:} GLP1-1, GIP and glucagon patterns during OGTT\par}
+{\fontsize{14}{16}\selectfont{Running title:} GLP-1, GIP and glucagon patterns during OGTT\par}
 
 \vspace*{12.2cm}
 \noindent
